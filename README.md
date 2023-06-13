@@ -14,7 +14,7 @@
 ![Vue](https://img.shields.io/badge/Vue-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white)
 
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C#-99CC00.svg?&style=for-the-badge&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/Csharp-239120.svg?&style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-FF7F7F.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3376AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 
