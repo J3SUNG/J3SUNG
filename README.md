@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=I'm%20JESEONG%20LEE&fontSize=90&animation=fadeIn&fontAlignY=38&desc=welcome!%20If%20you%20have%20any%20questions,%20contact%20me%20anytime.&descAlignY=51&descAlign=62)
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJ3SUNG&count_bg=%23B7FF80&title_bg=%2395F7FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![Jeseong's GitHub stats](https://github-readme-stats.vercel.app/api?username=J3SUNG&theme=react&show_icons=true)
